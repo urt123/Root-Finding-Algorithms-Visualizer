@@ -2,11 +2,12 @@
 A Root Finding Algorithms Visualizer project is a software tool designed to help users understand and visualize the behavior of various numerical methods for finding roots of mathematical equations. Root finding is a fundamental concept in numerical analysis and is commonly used in fields such as engineering, physics, computer science, and more. The primary goal of this project is to provide a user-friendly interface where users can input mathematical functions and observe how root-finding algorithms iteratively converge to find solutions.
 
 # Supported Algorithms:
-Bisection Method: A simple algorithm that iteratively reduces the search interval by halving it.
-Newton-Raphson Method: An iterative method that uses the derivative of the function to estimate the root.
-Secant Method: A numerical approximation of the derivative used in the Newton-Raphson method.
-Regula Falsi (False Position) Method: A variation of the bisection method that interpolates between two points.
-Any other algorithms the project aims to support.
+
+*Bisection Method: A simple algorithm that iteratively reduces the search interval by halving it.
+*Newton-Raphson Method: An iterative method that uses the derivative of the function to estimate the root.
+*Secant Method: A numerical approximation of the derivative used in the Newton-Raphson method.
+*Regula Falsi (False Position) Method: A variation of the bisection method that interpolates between two points.
+
 # Visualization:
 The core of the project is the visualization of how these algorithms work. Users should be able to see the following:
 The mathematical function they input.
